@@ -14,3 +14,7 @@ build/
 
 # Logs
 *.log
+
+# Java/Maven build files
+target/
+*.jar
